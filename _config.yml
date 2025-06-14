@@ -3,7 +3,7 @@
 title: Lauren Mauro
 description: subtitle | affiliations | motto
 
-baseurl: / #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "https://laurenmauro.github.io" #custom url to be used instead of GitHub repository
 email: #
 
