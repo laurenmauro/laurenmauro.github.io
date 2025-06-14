@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
+title: Lauren Mauro
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: /laurenmauro.github.io #name of GitHub repository
+url: "https://laurenmauro.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
