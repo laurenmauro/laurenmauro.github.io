@@ -1,44 +1,19 @@
-# Gradfolio
+# Cybersecurity Portfolio
 
-<p align="center">
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_composite.png" alt="Composite example of the gradfolio theme"/>
-</p>
+Welcome to my Cybersecurity portfolio! This repository is an overview of my achievements and journey in Cybersecurity as a 2nd year University student.
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+For the full portfolio, please navigate [here.](https://laurenmauro.github.io/)
 
-## Preview
+# Overview
 
-<details>
-<summary>Light</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_light.png" alt="Preview of gradfolio theme in light mode"/>
-</details>
-<details>
-<summary>Dark</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_dark.png" alt="Preview of gradfolio theme in dark mode"/>
-</details>
+* Projects: A list of projects I have undertaken, with detailed write-ups and discussion of results.
+* Virtual Experience and Programs: Showcasing the work of various work experience and programs I have undertaken.
+* Blog: My thoughts on what's happening in the industry, discussions and reviews.
+* Resume: Find my resume here.
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by the user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+# Contact Information
 
-## Installation
-* Click on `Use this template`
-* Your new site should be ready at https://username.github.io/gradfolio/
-* You can now modify the contents and personalise the template
+Please reach out if you have any opportunities, questions or want to chat!
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
-
-## Documentation
-
-Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips on [publishing to a custom domain](https://github.com/jitinnair1/gradfolio/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/jitinnair1/gradfolio/wiki/Customising-your-website) 
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
-- [snippet-book](https://github.com/jitinnair1/snippet-book) -terminal style, clean Jekyll blog theme with catppuccin colours
-
-
-PS: If you liked the theme, do star :star: it! Thanks!
+* Email: [lauren.mauro@hotmail.com](mailto:lauren.mauro@hotmail.com)
+* Linkedin: [Lauren Mauro](https://www.linkedin.com/in/lauren-mauro-325853269/)
