@@ -1,21 +1,17 @@
 ---
 layout: about
 permalink: /
-profile:
-  align: right
-  image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+G'day! My name is Lauren,  a 2nd year Bachelor of Cybersecurity student at the University of Technology Sydney. My technical skills spans Windows and macOS adminstration, basic Active Directory and packet-level troubleshooting with Wireshark. My recent help-desk internship at Navitas let me close Jira tickets for hardware, software and connectivity issues, roll out classroom equipment and shadow senior technicians on more complex issues.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+To improve the skills I've learnt at both uni and my internship, I have been undertaking structured projects and mini-certs. In CyberCX's Cyber5050 program, I was selected as one of 30 women in NSW/ACT to cover core Cybersecurity topics such as threat actors, incident response and cloud security. I have also been undertaking Forage virtual work experience courses; one which was particularly interesting was Commonwealth Bank's, giving me hands-on experience in Splunk, incident respose and penetration testing.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Outside of my Cybersecurity work, you can find me tutoring English for Primary and High-school students, translating technicalities into easy to understand language catered to different age groups. I am also passionate about fragrance, writing my honest reviews on different perfumes in my collection, which boasts over 20 bottles. When my PC and console are off after playing sandbox games like Animal Crossing and The Sims, I am likely rewatching my two favourite shows - Futurama and It's Always Sunny in Philadelphia.
 
-PS: If you liked the theme, do star it on GitHub!
+Based in Sydney, I am exploring career paths where I can use my communication skills for good - particularly Governance, Risk and Compliance, Cyber consultancy and potentially defense SOC roles.
 
-### Also, check out:
+Feel free to explore my projects and say hello via [Linkedin!](https://www.linkedin.com/in/lauren-mauro-325853269/) I am open to any feedback or comments. 
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Thanks for viewing my portfolio!
