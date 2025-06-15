@@ -5,6 +5,7 @@ description: B. Csec @ UTS | Don't let what you cannot do interfere with what yo
 
 # baseurl: "" #name of GitHub repository
 url: "https://laurenmauro.github.io" #custom url to be used instead of GitHub repository
+baseurl: ""
 email: #
 
 # Pagination
@@ -36,6 +37,9 @@ compress_html:
 
 #collection
 collections:
+  cybercx:
+    output: true
+    permalink: /cybercx/:path/
   projects:
     output: true
     permalink: /projects/:name/
@@ -46,10 +50,6 @@ collections:
       - project4.md
       - project5.md
       - project6.md
-  
-  cybercx:
-    output: true
-    permalink: /cybercx/:name/
 
 sass:
   sass_dir: /assets/css/_sass
