@@ -46,6 +46,7 @@ collections:
       - project4.md
       - project5.md
       - project6.md
+  
   cybercx:
     output: true
     permalink: /cybercx/:name/

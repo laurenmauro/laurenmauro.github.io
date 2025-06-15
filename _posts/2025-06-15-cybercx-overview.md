@@ -1,5 +1,5 @@
 ---
-layout: post              # normal Gradfolio blog post
+layout: about
 title:  "CyberCX Micro-credential (4-week diary)"
 ---
 

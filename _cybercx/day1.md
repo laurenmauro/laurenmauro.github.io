@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Day 01 – Recon & Threat Actors"
 date:   2025-06-17
 ---
