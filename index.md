@@ -1,6 +1,9 @@
 ---
 layout: about
 permalink: /
+profile:
+  align: right
+  image: chibi.png
 published: true
 ---
 
