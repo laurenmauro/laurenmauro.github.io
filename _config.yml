@@ -50,6 +50,9 @@ collections:
       - project4.md
       - project5.md
       - project6.md
+  virtual_work_experience:
+    output: true
+    permalink: /vwe/:path/
 
 sass:
   sass_dir: /assets/css/_sass
