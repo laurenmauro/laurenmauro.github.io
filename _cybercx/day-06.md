@@ -1,6 +1,6 @@
 ---
-title: "Day 04 - Risk Management and Privacy"
-date: 2025-06-19
+title: "Day 06 - Data Security"
+date: 2025-06-23
 layout: post
 toc:   true
 ---
