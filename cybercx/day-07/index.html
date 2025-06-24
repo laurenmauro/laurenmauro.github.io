@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="/assets/css/main.css">
+
+        <h1 class="post-headline">Lauren Mauro</h1>
+        <h3 class="post-description">B. Csec @ UTS | Don't let what you cannot do interfere with what you can do</h3>
+
+        <div class="links scroll">
+        <a href="/">Home</a>
+        <a href="/projects/">Projects</a>
+        <a href="/blog/">Blog</a>
+        <a href="/archive/">Archive</a>
+</div>
+
+
+        <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Day 07 - Cryptography | Lauren Mauro</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Day 07 - Cryptography" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="B. Csec @ UTS Don’t let what you cannot do interfere with what you can do" />
+<meta property="og:description" content="B. Csec @ UTS Don’t let what you cannot do interfere with what you can do" />
+<link rel="canonical" href="https://laurenmauro.github.io/cybercx/day-07/" />
+<meta property="og:url" content="https://laurenmauro.github.io/cybercx/day-07/" />
+<meta property="og:site_name" content="Lauren Mauro" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-06-24T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Day 07 - Cryptography" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-06-24T00:00:00+00:00","datePublished":"2025-06-24T00:00:00+00:00","description":"B. Csec @ UTS Don’t let what you cannot do interfere with what you can do","headline":"Day 07 - Cryptography","mainEntityOfPage":{"@type":"WebPage","@id":"https://laurenmauro.github.io/cybercx/day-07/"},"url":"https://laurenmauro.github.io/cybercx/day-07/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+        <!-- insert favicons, used https://realfavicongenerator.net/ -->
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+<link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+<link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+
+        <!-- MathJax -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+     processEscapes: true
+    }
+  });
+</script>
+
+
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v6.7.2/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+
+    </head>
+
+    <body>
+        <main>
+            <article>
+                <h1 class="post-headline">Day 07 - Cryptography</h1>
+<p class="meta"><small>June 24, 2025</small></p>
+
+<hr>
+
+<p><strong>Table of Contents</strong></p>
+<ol id="markdown-toc">
+  <li><a href="#goal-of-the-day" id="markdown-toc-goal-of-the-day">Goal of the day</a></li>
+  <li><a href="#tasks-completed" id="markdown-toc-tasks-completed">Tasks Completed</a></li>
+  <li><a href="#key-learnings" id="markdown-toc-key-learnings">Key Learnings</a></li>
+  <li><a href="#personal-reflection" id="markdown-toc-personal-reflection">Personal Reflection</a></li>
+</ol>
+
+<hr>
+
+<p>On day seven of the Cyber5050 microcredential, we looked at Cryptography, particularly its key concepts, classic ciphers used and the real-world uses. We reviewed how encryption and hashing protect data and explored methods like steganography and PKI before doing a hands-on cipher challenge independently.</p>
+
+<h2 id="goal-of-the-day">Goal of the day</h2>
+<p>The aim was to understand cryptography’s purposes - hiding messages, verifying senders and ensuring data integrity. We aimed to understand the difference between symmetric and asymmetric algorithms, as well as hashing, and how they can be applied to modern security systems.</p>
+
+<h2 id="tasks-completed">Tasks Completed</h2>
+
+<p>We began by looking at key terminology and the history of Cryptography. It was quite interesting to learn that cryptography goes back to the Ancient Greece days, and it’s clever how they were able to encrypt information back then. Then, we learnt about different algorithms. Firstly, we looked at symmetric algorithms, including DES, 3DES and AES. We learnt that DES was able to be cracked back in 1998 and that AES is the best symmetric algorithm to use in modern contexts.  Then we looked at public-key cryptography, which compared to symmetric, uses two pair of keys - the public and private, to make it more secure. Then we looked at hashing algorithms such as SHA-1, SHA-2 and SHA-3 which are used to obscure important information and cannot be reversed.</p>
+
+<p>We then looked at how this is used in the real world. We looked firstly at steganography, which was quite cool but difficult to wrap my head around - how can a seemingly normal picture hold hidden information? Then we explored digital signatures in Public Key Infrastructures, SSL/TLS handshakes and S/MIME for email.</p>
+
+<p>Although I have just completed a subject on Cryptography at uni this semester, it was interesting to see real-world applications and focus on the less mathematical part of crypto.</p>
+
+<h2 id="key-learnings">Key Learnings</h2>
+
+<p>We had to complete a cipher challenge for our homework. It blended several methods - decimal decoding, braille to words, ROT-13 and columnar transposition ciphers, as well as steganography of a .WAV file, which had a hidden message within the graph. It was challenging but extremely fun to work through and was a nice activity to understand how Cryptography can be used in the real world.</p>
+
+<h2 id="personal-reflection">Personal Reflection</h2>
+
+<p>I was really proud to have solved the entire puzzle end-to-end and on my own. Since I found the coursework in my uni Cryptography class a bit challenging, it was nice to have it reinforced and explained in this course. I would love to do some more of those decoding challenges as a fun puzzle!</p>
+
+<nav class="day-nav">
+  
+    
+    <a href="/cybercx/day-06/">« Previous Day</a>
+  
+
+  
+
+  
+</nav>
+
+
+<!-- Comments only for posts -->
+
+
+            </article>
+        </main>
+
+        <footer>
+          <p class="copy">
+            <small> © Lauren Mauro 2025
+                    | Powered by Jekyll and
+                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/" rel="noopener noreferrer">Gradfolio</a>.
+                    Last updated on 24 June 2025
+            </small>
+          </p>
+
+        <div class="rounded-social-buttons">
+<a title="" class="social-button linkedin" href="https://www.linkedin.com/in/https://www.linkedin.com/in/lauren-mauro-325853269/" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-linkedin"></i>
+</a><a title="" class="social-button github" href="https://www.github.com/https://github.com/laurenmauro" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-github"></i>
+</a>
+</div>
+
+
+        </footer>
+
+        <!-- Google Analytics Tracking code -->
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script>
+var galite = galite || {};
+galite.UA = '';
+</script>
+
+    </body>
+
+</html>
