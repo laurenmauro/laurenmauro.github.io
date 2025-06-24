@@ -1,6 +1,6 @@
 ---
 title: "Day 07 - Cryptography"
-date: 2025-06-23
+date: 2025-06-24
 layout: post
 toc:   true
 ---
